@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+altair
+matplotlib
+scikit-learn
+keras
+tensorflow
+pyotp
+logzero
+ta
+joblib
+pyswarms
+requests
+plotly
+SmartApi-python
+websocket-client
